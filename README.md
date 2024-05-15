@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/leoocestari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leoocestari/"><img src="https://img.shields.io/badge/Portfólio-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"></a>
+  <a href="https://portfolio-m5dxkhj55-leoocestaris-projects.vercel.app//"><img src="https://img.shields.io/badge/Portfólio-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"></a>
 </div>
 
   
