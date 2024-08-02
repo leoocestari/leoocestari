@@ -1,5 +1,5 @@
-## Leonardo Cestari - Desenvolvedor Web ☕
-### Desenvolvedor Web, Crio aplicações web, fazendo uso de tecnologias como React, Next e Typescript.
+## Leonardo Cestari - Desenvolvedor Full Stack ☕
+### Desenvolvedor, Crio aplicações web, fazendo uso de tecnologias como Angular, Next e Typescript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoocestari&show_icons=true&theme=tokyonight)
 
